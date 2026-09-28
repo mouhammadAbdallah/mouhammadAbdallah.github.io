@@ -1,3 +1,8 @@
+---
+layout: default
+title: Red team tips
+---
+
 # Red team tips
 
 One place for tip series. Each link opens **tip 1** of that topic.

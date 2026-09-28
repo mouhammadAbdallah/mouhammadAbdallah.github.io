@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Red team tips
 description: Posts about red team tips and tricks
+theme: jekyll-theme-minimal
+permalink: pretty
+markdown: kramdown
