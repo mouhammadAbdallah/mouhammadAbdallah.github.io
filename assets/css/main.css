@@ -174,7 +174,7 @@ body {
 
 .site-footer p { margin: 0; }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .page { padding: 1.1rem 0.9rem 2.5rem; }
   .tip-card { padding: 1.15rem 1rem 1.1rem; border-radius: 12px; }
   .brand-sub { display: none; }
