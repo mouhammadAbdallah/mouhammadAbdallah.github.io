@@ -6,5 +6,8 @@ title: Red team tips
 # Topics
 
 - **[EDR evasion](/evasion/tip-001/)**
+    - [tip 1 - Make your malware look "normally random"](/evasion/tip-001/)
+    - [tip 2 - Cure the Import Address Table with Dynamic API Resolution](/evasion/tip-002/)
+    - [tip 3 - Hide the APIs used for the dynamic API resolution themselves from the IAT](/evasion/tip-003/)
 
 <!-- Add a new series: copy `_template/` to a new folder (e.g. `ai-pentest/`), add tip-001.md, then add one bullet here. -->
